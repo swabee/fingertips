@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  margin:0;
+  
+  font-family: Arial, sans-serif; /* or your preferred font */
+}
+
+.bg-light {
+  background-color: #f8f9fa; /* Light background color */
+}
